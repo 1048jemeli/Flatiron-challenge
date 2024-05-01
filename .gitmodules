@@ -1,0 +1,3 @@
+[submodule "Flatiron-bank"]
+	path = Flatiron-bank
+	url = git@github.com:1048jemeli/Flatiron-bank.git
